@@ -16,8 +16,8 @@ Les trois fichiers initiaux se trouvent dans le container **Bronze** :
 ## Etape 
 1. Compter le nombre de catégorie de parc
 2. Garder 3 catégories de liter 
-3. Pour un écureuil ne garder que la première couleur de la fourrure principales.
-4. Créer une table unique qui contient toutes ses informations et écrivez la dans le datastage **Gold** sous la forme d'une table unique. Spécifiez votre nom pour le path : *"gautierRader/reporting_squirrel.parquet"*
+3. Pour un écureuil ne garder que la première couleur des "highlights" de fourrure.
+4. Créer une table unique qui contient toutes ses informations et écrivez la dans le datastage **Gold** sous la forme d'une table unique. Il faut également que l'histoire associée à chaque "area" soit présente. Spécifiez votre nom pour le path : *"gautierRader/reporting_squirrel.parquet"*
 
 ## Commandes pratique 
 - df.show()
