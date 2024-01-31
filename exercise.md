@@ -5,7 +5,7 @@ Enregistrez vous dans google colab et ajoutez le scripts ucl_course.ipynb.
 Google colab vous permettra de faire du python sans rien installer sur votre pc.
 Le contexte est l'annalyse des écureuils dans les parcs de new york.
 
-Vous avez un datalake sur Azure à votre disposition avec 3 étage de données **bronze, silver, gold**
+Vous avez un datalake sur Azure à votre disposition avec 3 étages de données **bronze, silver, gold**
 
 Les trois fichiers initiaux se trouvent dans le container **Bronze** :
 - squirrel/park-data_.parquet
